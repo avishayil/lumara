@@ -1,0 +1,5 @@
+Fredoka and Rubik are licensed under the SIL Open Font License 1.1.
+Full license: https://openfontlicense.org/
+Fredoka: https://fonts.google.com/specimen/Fredoka
+Rubik:   https://fonts.google.com/specimen/Rubik
+The bundled .woff2 files are the Hebrew subset (unicode-range-scoped).
